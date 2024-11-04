@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-killer0" alt="code-killer0" /></a> </p>
 
 - 🔭 I’m currently working on **Resell "A e-commerce plateform"**
 
@@ -26,15 +26,12 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
   
 </div>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitpathak528&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpathak528" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-killer0&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpathak528" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-killer0" alt="code-killer0" /></a> </p>
+
 </details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
