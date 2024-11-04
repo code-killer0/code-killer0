@@ -8,15 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with **backend stuff.**
-
-- 👨‍💻 All of my projects are available at [github.com](github.com)
-
 - 💬 Ask me about **data strucrture algoritms,react**
 
 - 📫 How to reach me **pathakharshit720@gmail.com**
-
-- ⚡ Fun fact **Smile**
 
  <div><b>GSSOC(24) Badges 🪶</b></div><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
