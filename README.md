@@ -17,7 +17,7 @@
 - 📫 How to reach me **pathakharshit720@gmail.com**
 
 - ⚡ Fun fact **Smile**
-<details>	
+//<details>	
  <div><b>GSSOC(24) Badges 🪶</b></div><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
