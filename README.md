@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitpathak528&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpathak528" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitpathak528" alt="harshitpathak528" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-killer0" alt="code-killer0" /></a> </p>
 
 - 🔭 I’m currently working on **Resell "A e-commerce plateform"**
 
