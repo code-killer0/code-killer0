@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, This is Harshit</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="left">A passionate developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-killer0" alt="code-killer0" /></a> </p>
 
 - 🔭 I’m currently working on **Resell "A e-commerce plateform"**
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **data strucrture algoritms,react**
+- 💬 Ask me about **Data Strucrture Algoritms,React**
 
 - 📫 How to reach me **pathakharshit720@gmail.com**
 
