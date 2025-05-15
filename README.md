@@ -3,14 +3,14 @@
 - 👨‍💻 Recent Project website: https://resell-v1.netlify.app/
 - 📎 LinkedIn: https://www.linkedin.com/in/code-killer/
 - 👾 GSSOC Contributor 2024 
-- 📒 Hacktoberfest COntributor 2024 
+- 📒 Hacktoberfest Contributor 2024 
 - 🤖 Kaggle profile: https://www.kaggle.com/harshit12120
 
 
 
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hahabill&show_icons=true&locale=en" alt="hahabill" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hahabill&" alt="hahabill" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-killer0&show_icons=true&locale=en" alt="hahabill" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-killer0&" alt="code-killer0" /></td>
   </tr>
 </table>
