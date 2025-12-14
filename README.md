@@ -8,9 +8,3 @@
 
 
 
-<table>
-  <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-killer0&show_icons=true&locale=en" alt="Loading" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-killer0&" alt="code-killer0" /></td>
-  </tr>
-</table>
