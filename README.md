@@ -6,7 +6,6 @@
 - 📒 Hacktoberfest Contributor 2024 
 - 🤖 Kaggle profile: https://www.kaggle.com/harshit12120
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-killer0&theme=github-dark)
 
 
 
